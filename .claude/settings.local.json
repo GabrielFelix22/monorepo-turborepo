@@ -3,7 +3,8 @@
     "allow": [
       "Bash(pnpm --version)",
       "Bash(pnpm install)",
-      "Bash(code --install-extension Codeium.codeium)"
+      "Bash(code --install-extension Codeium.codeium)",
+      "Bash(\"c:/dev/basic-project/packages/ui/src/index.ts\":*)"
     ]
   }
 }
